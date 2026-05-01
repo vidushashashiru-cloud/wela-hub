@@ -48,7 +48,7 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "2",
-    title: "ලංකාවේ හොඳම Video",
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
     description: "ඔබේ video description මෙහි.",
     category: "Sinhala",
     views: "450K",
@@ -59,7 +59,7 @@ export const videos = [
     recent: true,
 
     // ✅ VidSonic / LuluVid embed URL
-    embed_url: "<iframe src="https://luluvdo.com/e/e3bka5e19ml3" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>",  // ← replace
+    embed_url: "https://luluvdo.com/e/e3bka5e19ml3",  // ← replace
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Supabase Storage bucket හි ඇති filename
