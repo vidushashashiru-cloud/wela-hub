@@ -59,7 +59,7 @@ export const videos = [
     recent: true,
 
     // ✅ VidSonic / LuluVid embed URL
-    embed_url: "https://www.youtube.com/embed/dQw4w9WgXcQ",  // ← replace
+    embed_url: "<iframe src="https://luluvdo.com/e/e3bka5e19ml3" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>",  // ← replace
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Supabase Storage bucket හි ඇති filename
