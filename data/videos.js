@@ -59,7 +59,7 @@ export const videos = [
     recent: true,
 
     // ✅ VidSonic / LuluVid embed URL, 
-    <iframe src="https://www.pornhub.com/embed/674815aa3c838" frameborder="0" width="560" height="315" scrolling="no" allowfullscreen></iframe>"
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Supabase Storage bucket හි ඇති filename
