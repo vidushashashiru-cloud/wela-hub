@@ -63,7 +63,7 @@ export const videos = [
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Supabase Storage bucket හි ඇති filename
-    thumbnail: "video2-thumb.jpg",   // ← Supabase හි upload කළ filename
+    thumbnail: "logo.jpg",   // ← Supabase හි upload කළ filename
   },
 
   // ════════════════════════════════
