@@ -145,6 +145,15 @@ export const videos = [
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
     thumbnail: "https://img.youtube.com/vi/D0UnqGm_miA/mqdefault.jpg",
   },
+  {
+    id: "7",
+    title: "සදුනිගෙ ෆක් එක 🥵🥵",
+    embed_url: "https://luluvdo.com/e/e3bka5e19ml3",
+    embed_allow: "autoplay; fullscreen",
+    thumbnail: "thumb.jpg",
+    popular: true,
+    recent: true,
+  },
 
   // ════════════════════════════════════════════════════
   //  ✅ ඔබේ videos මෙසේ add කරන්න:
