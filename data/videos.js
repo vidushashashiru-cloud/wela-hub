@@ -159,8 +159,11 @@ export const videos = [
   },
   {
     id: "7",
-    title: "සදුනිගෙ ෆක් එක 🥵🥵",
+    title: "විහාරහේන නන්ගිගෙ ඇගිලි සොමිය🥵🍆",
+    category:"fingering",
     embed_url: "https://luluvdo.com/e/e3bka5e19ml3",
+    date:"2026-05-02",
+    duration :"01:37",
     embed_allow: "autoplay; fullscreen",
     thumbnail: "thumb.jpg",
     popular: true,
