@@ -153,6 +153,7 @@ export const videos = [
     thumbnail: "thumb.jpg",
     popular: true,
     recent: true,
+    thubnails: "file_00000000e78471fdbdde93dd444f7265.png",
   },
 
   // ════════════════════════════════════════════════════
