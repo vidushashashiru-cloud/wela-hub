@@ -4,8 +4,8 @@
 // ══════════════════════════════════════════════════════
 
 export const SITE = {
-  name: "ලංකා hub",          // Site name
-  tagline: "ලංකාවේ හොඳම video hub", // Sub-title
+  name: "වැල HUB",          // Site name
+  tagline: "ලංකාවේ ලොකුම වැල HUB එක", // Sub-title
   logo: "/logo.jpg",           // public/ folder ඇති logo file
 };
 
@@ -43,7 +43,7 @@ export const AFFILIATE = {
   // Text link ad
   textLink: {
     enabled: true,
-    text:    "🔥 Hot Deals - Click Here",
+    text:    "🔥 TELEGRAM CHANNEL එකට JOIN වෙන්න - Click Here",
     link:    "https://your-affiliate-link.com",
   },
 };
@@ -51,6 +51,6 @@ export const AFFILIATE = {
 // ── Categories ───────────────────────────────────────
 // ✅ ඔබේ video categories
 export const CATEGORIES = [
-  "All", "Entertainment", "Music", "Sports", "News",
-  "Education", "Comedy", "Drama", "Tech", "Sinhala",
+  "All", "sinhala new", "ලීක්", "cam show", "blowjob",
+  "anal fuck", "titjob", "නිලි ලීක්", "මුස්ලිම්", "english",
 ];
