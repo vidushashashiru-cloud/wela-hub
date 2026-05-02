@@ -41,7 +41,7 @@ export const videos = [
 
     // ✅ Supabase Storage bucket හි ඇති filename
     thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
-  },,
+  },
 
   // ════════════════════════════════
   //  VIDEO 2 - Supabase thumbnail
@@ -138,7 +138,7 @@ export const videos = [
   // ════════════════════════════════
   //  VIDEO 6
   // ════════════════════════════════
-    {
+  {
     id: "6",
     title: "සදුනිගෙ අලුත් එක 🥵🥵",
     description: "ඔබේ video description මෙහි.",
