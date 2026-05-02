@@ -25,13 +25,13 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "1",
-    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    title: "පැලවත්තෙ සිතුමි අක්ක ලීක් එක 🥵"
     description: "ඔබේ video description මෙහි.",
-    category: "Sinhala",
-    views: "450K",
+    category: "Sinhala,fuck,blowjob,anal fuck",
+    views: "4K",
     duration: "15:30",
-    date: "2025-04-20",
-    channel: "My Channel",
+    date: "2026-05-2",
+    channel: "සිංහල ලීක්",
     popular: true,
     recent: true,
 
@@ -40,7 +40,7 @@ export const videos = [
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
     // ✅ Supabase Storage bucket හි ඇති filename
-    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
+    thumbnail: "vk.jpg",   // ← Supabase හි upload කළ filename
   },
 
   // ════════════════════════════════
