@@ -52,5 +52,5 @@ export const AFFILIATE = {
 // ✅ ඔබේ video categories
 export const CATEGORIES = [
   "All", "sinhala new", "ලීක්", "cam show", "blowjob",
-  "anal fuck", "titjob", "නිලි ලීක්", "මුස්ලිම්", "english",
+  "anal fuck", "titjob", "fingering", "මුස්ලිම්", "english",
 ];
