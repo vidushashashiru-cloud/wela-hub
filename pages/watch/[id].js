@@ -57,7 +57,6 @@ export default function WatchPage({ video, dark }) {
                 allow={video.embed_allow || "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}
                 allowFullScreen
                 title={video.title}
-                sandbox="allow-scripts allow-same-origin allow-presentation"
               />
             </div>
 
