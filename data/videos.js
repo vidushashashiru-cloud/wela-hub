@@ -27,7 +27,7 @@ export const videos = [
     id: "1",
     title: "පැලවත්තෙ සිතුමි අක්ක ලීක් එක 🥵",
     description: "ඔබේ video description මෙහි.",
-    category: "Sinhala,fuck,blowjob,anal fuck",
+    category: "sinhla new","blowjob","anal fuck",
     views: "4K",
     duration: "17:44",
     date: "2026-05-2",
