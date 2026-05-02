@@ -29,22 +29,22 @@ export const AFFILIATE = {
   // Banner 1 - homepage top
   banner1: {
     image: "/ads/banner1.jpg",   // public/ads/ folder
-    link:  "https://your-affiliate-link.com",
+    link:  "https://omg10.com/4/10909958",
     alt:   "Special Offer",
   },
 
   // Banner 2 - watch page sidebar / bottom
   banner2: {
     image: "/ads/banner2.jpg",
-    link:  "https://your-affiliate-link2.com",
+    link:  "https://omg10.com/4/10909958",
     alt:   "Exclusive Deal",
   },
 
   // Text link ad
   textLink: {
     enabled: true,
-    text:    "🔥 TELEGRAM CHANNEL එකට JOIN වෙන්න - Click Here",
-    link:    "https://your-affiliate-link.com",
+    text: "🔥 TELEGRAM CHANNEL එකට JOIN වෙන්න - Click Here",
+    link:    "https://omg10.com/4/10909958",
   },
 };
 
