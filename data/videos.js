@@ -29,7 +29,7 @@ export const videos = [
     description: "ඔබේ video description මෙහි.",
     category: "Sinhala,fuck,blowjob,anal fuck",
     views: "4K",
-    duration: "15:30",
+    duration: "17:44",
     date: "2026-05-2",
     channel: "සිංහල ලීක්",
     popular: true,
