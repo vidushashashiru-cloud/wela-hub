@@ -25,23 +25,23 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "1",
-    title: "Big Buck Bunny - Sample Video",
-    description: "Replace with your video description. ඔබේ video description මෙහි දෙන්න.",
-    category: "Entertainment",
-    views: "1.2M",
-    duration: "9:56",
-    date: "2025-01-15",        // recent/popular sorting සඳහා
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    description: "ඔබේ video description මෙහි.",
+    category: "Sinhala",
+    views: "450K",
+    duration: "15:30",
+    date: "2025-04-20",
     channel: "My Channel",
-    popular: true,             // ✅ Popular section හි show කිරීමට true
-    recent: true,              // ✅ Recent section හි show කිරීමට true
+    popular: true,
+    recent: true,
 
-    // ✅ Embed URL - replace VIDEO_ID
-    embed_url: "https://www.youtube.com/embed/aqz-KE-bpKQ",
+    // ✅ VidSonic / LuluVid embed URL, 
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
 
-    // ✅ Thumbnail - YouTube auto thumbnail
-    thumbnail: "https://img.youtube.com/vi/aqz-KE-bpKQ/mqdefault.jpg",
-  },
+    // ✅ Supabase Storage bucket හි ඇති filename
+    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
+  },,
 
   // ════════════════════════════════
   //  VIDEO 2 - Supabase thumbnail
@@ -71,19 +71,22 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "3",
-    title: "Popular Video Title",
-    description: "Description here.",
-    category: "Music",
-    views: "2.5M",
-    duration: "4:20",
-    date: "2025-03-10",
-    channel: "Music Channel",
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    description: "ඔබේ video description මෙහි.",
+    category: "Sinhala",
+    views: "450K",
+    duration: "15:30",
+    date: "2025-04-20",
+    channel: "My Channel",
     popular: true,
-    recent: false,
+    recent: true,
 
-    embed_url: "https://www.youtube.com/embed/9bZkp7q19f0",
+    // ✅ VidSonic / LuluVid embed URL, 
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-    thumbnail: "https://img.youtube.com/vi/9bZkp7q19f0/mqdefault.jpg",
+
+    // ✅ Supabase Storage bucket හි ඇති filename
+    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
   },
 
   // ════════════════════════════════
@@ -91,19 +94,22 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "4",
-    title: "Recent Upload - New Content",
-    description: "Fresh content just uploaded.",
-    category: "Sports",
-    views: "12K",
-    duration: "22:15",
-    date: "2025-04-28",
-    channel: "Sports Hub",
-    popular: false,
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    description: "ඔබේ video description මෙහි.",
+    category: "Sinhala",
+    views: "450K",
+    duration: "15:30",
+    date: "2025-04-20",
+    channel: "My Channel",
+    popular: true,
     recent: true,
 
-    embed_url: "https://www.youtube.com/embed/ScMzIvxBSi4",
+    // ✅ VidSonic / LuluVid embed URL, 
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-    thumbnail: "https://img.youtube.com/vi/ScMzIvxBSi4/mqdefault.jpg",
+
+    // ✅ Supabase Storage bucket හි ඇති filename
+    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
   },
 
   // ════════════════════════════════
@@ -111,39 +117,45 @@ export const videos = [
   // ════════════════════════════════
   {
     id: "5",
-    title: "Comedy Clip",
-    description: "Funny video description.",
-    category: "Comedy",
-    views: "890K",
-    duration: "8:00",
-    date: "2025-02-14",
-    channel: "Comedy Zone",
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    description: "ඔබේ video description මෙහි.",
+    category: "Sinhala",
+    views: "450K",
+    duration: "15:30",
+    date: "2025-04-20",
+    channel: "My Channel",
     popular: true,
-    recent: false,
+    recent: true,
 
-    embed_url: "https://www.youtube.com/embed/zHl5ZEMg_Gs",
+    // ✅ VidSonic / LuluVid embed URL, 
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-    thumbnail: "https://img.youtube.com/vi/zHl5ZEMg_Gs/mqdefault.jpg",
+
+    // ✅ Supabase Storage bucket හි ඇති filename
+    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
   },
 
   // ════════════════════════════════
   //  VIDEO 6
   // ════════════════════════════════
-  {
+    {
     id: "6",
-    title: "Tech Review 2025",
-    description: "Latest tech review.",
-    category: "Tech",
-    views: "340K",
-    duration: "18:45",
-    date: "2025-04-25",
-    channel: "Tech Lanka",
-    popular: false,
+    title: "සදුනිගෙ අලුත් එක 🥵🥵",
+    description: "ඔබේ video description මෙහි.",
+    category: "Sinhala",
+    views: "450K",
+    duration: "15:30",
+    date: "2025-04-20",
+    channel: "My Channel",
+    popular: true,
     recent: true,
 
-    embed_url: "https://www.youtube.com/embed/D0UnqGm_miA",
+    // ✅ VidSonic / LuluVid embed URL, 
+    embed_url:"https://www.pornhub.com/embed/674815aa3c838",
     embed_allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-    thumbnail: "https://img.youtube.com/vi/D0UnqGm_miA/mqdefault.jpg",
+
+    // ✅ Supabase Storage bucket හි ඇති filename
+    thumbnail: "IMG_20260429_115403.jpg",   // ← Supabase හි upload කළ filename
   },
   {
     id: "7",
