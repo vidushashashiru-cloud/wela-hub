@@ -6,7 +6,7 @@
 export const SITE = {
   name: "වැල HUB",          // Site name
   tagline: "ලංකාවේ ලොකුම වැල HUB එක", // Sub-title
-  logo: "/logo.jpg",           // public/ folder ඇති logo file
+  logo: "/logo.png",           // public/ folder ඇති logo file
 };
 
 // ── Social Media ─────────────────────────────────────
