@@ -80,7 +80,7 @@ export const videos = [
     id: "4",
     title: "තිශූ අක්කගෙ බැක් එක🥵🍆",
     views:"10k",
-    category:"camshow",
+    category:"cam show",
     embed_url: "https://luluvdo.com/e/zffivewd9fgb",
     date:"2026-05-05",
     duration :"01:37",
