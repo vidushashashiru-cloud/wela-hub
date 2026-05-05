@@ -76,6 +76,20 @@ export const videos = [
     recent: true,
     thumbnail:"v.jpg",
   },
+    {
+    id: "4",
+    title: "තිශූ අක්කගෙ බැක් එක🥵🍆",
+    views:"10k",
+    category:"camshow",
+    embed_url: "https://luluvdo.com/e/zffivewd9fgb",
+    date:"2026-05-05",
+    duration :"01:37",
+    embed_allow: "autoplay; fullscreen",
+    thumbnail: "thumb.jpg",
+    popular: true,
+    recent: true,
+    thumbnail:"v.jpg",
+  },
 
   // ════════════════════════════════════════════════════
   //  ✅ ඔබේ videos මෙසේ add කරන්න:
