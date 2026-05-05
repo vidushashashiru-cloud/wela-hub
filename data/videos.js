@@ -83,12 +83,12 @@ export const videos = [
     category:"cam show",
     embed_url: "https://luluvdo.com/e/zffivewd9fgb",
     date:"2026-05-05",
-    duration :"01:37",
+    duration :"02:27",
     embed_allow: "autoplay; fullscreen",
-    thumbnail: "thumb.jpg",
+    thumbnail: "InShot_20260505_121859753.jpg",
     popular: true,
     recent: true,
-    thumbnail:"v.jpg",
+    thumbnail:"InShot_20260505_121859753.jpg",
   },
 
   // ════════════════════════════════════════════════════
