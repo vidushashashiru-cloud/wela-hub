@@ -95,7 +95,7 @@ export const videos = [
     title: "threesome fuck hard",
     views:"10k",
     category:"english",
-    embed_url: "<iframe src="www.luluvid.com/e/qkurdav3pqj4" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>",
+    embed_url: "https://luluvid.com/e/qkurdav3pqj4",
     date:"2026-05-05",
     duration :"02:27",
     embed_allow: "autoplay; fullscreen",
