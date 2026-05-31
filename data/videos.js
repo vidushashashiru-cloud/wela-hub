@@ -101,6 +101,7 @@ export const videos = [
     embed_allow: "autoplay; fullscreen",
     popular: true,
     recent: true,
+    thubnail:"Screenshot_20260531_102626.jpg",
   },
 
   // ════════════════════════════════════════════════════
