@@ -90,6 +90,18 @@ export const videos = [
     recent: true,
     thumbnail:"InShot_20260505_121859753.jpg",
   },
+  {
+    id: "5",
+    title: "threesome fuck hard",
+    views:"10k",
+    category:"english",
+    embed_url: "<iframe src="www.luluvid.com/e/qkurdav3pqj4" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>",
+    date:"2026-05-05",
+    duration :"02:27",
+    embed_allow: "autoplay; fullscreen",
+    popular: true,
+    recent: true,
+  },
 
   // ════════════════════════════════════════════════════
   //  ✅ ඔබේ videos මෙසේ add කරන්න:
